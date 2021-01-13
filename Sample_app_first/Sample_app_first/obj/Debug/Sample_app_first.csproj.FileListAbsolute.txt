@@ -1,0 +1,7 @@
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\bin\Debug\Sample_app_first.exe.config
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\bin\Debug\Sample_app_first.exe
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\bin\Debug\Sample_app_first.pdb
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\obj\Debug\Sample_app_first.csprojAssemblyReference.cache
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\obj\Debug\Sample_app_first.csproj.CoreCompileInputs.cache
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\obj\Debug\Sample_app_first.exe
+F:\C ,C++,C#   Programming Example\C# Programming\Sample_app_first\Sample_app_first\obj\Debug\Sample_app_first.pdb
